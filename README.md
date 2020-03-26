@@ -5,7 +5,7 @@
 - dans eclipse, onglet "project explorer", clic droit "Import..."
 - git/Projects from git (with smart import)
 - clone URI
-- dans URI: https://framagit.org/saigamp/exemple-jpa-bis.git
+- dans URI: https://github.com/saigamp/exemple-jpa-bis.git
 
 Attention! Le projet est en java 11. Il faut penser à avoir le jdk11.
 
